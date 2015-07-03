@@ -4,4 +4,4 @@
 * [An Introduction to Programming in Go]
 
 
-[An Introduction to Programming in Go](http://www.golang-book.com/books/intro)
+[An Introduction to Programming in Go]:http://www.golang-book.com/books/intro
